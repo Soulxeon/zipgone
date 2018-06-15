@@ -1,7 +1,7 @@
 import os
 import time
 #seleccionar path
-path = "C:/Users/Elias/Downloads/erase"
+path = "Path/directory"
 test = os.listdir(path)
 current_time = time.time()
 for item in test:
